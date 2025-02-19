@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Tugas kuliah\SEM 2\StrukDat\Final\REVPRES2\pres\FINAL\Source.cpp(190,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+LINK : fatal error LNK1168: cannot open D:\Tugas kuliah\SEM 2\StrukDat\Final\REVPRES2\pres\x64\Debug\FINAL.exe for writing
